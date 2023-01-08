@@ -65,7 +65,7 @@ h6 {
 	text-align: center;
 	margin: auto;
 	color: #E06733;
-	border: 2px solid #E06733;
+	border: 1px solid #E06733;
 	border-radius: 5px;
 	height: 50px;
 	width: 161px;
@@ -301,14 +301,14 @@ font-family: Inika;
 font-size: 20px;
 text-align: center;
 color: #E06733;
-border: 2px solid #E06733;
+border: 1px solid #E06733;
 border-radius: 5px;
 height: 50px;
 width: 161px;
 padding: 6px;
 }
 
-.button:hover {
+.button__prices:hover {
 background:#E06733;
 color:#FFFFFF;
 }
